@@ -1,3 +1,4 @@
 lobehub/lobe-chat:1.68.3
 youshandefeiyang/allinone:latest
+langgenius/dify-web:latest
 
