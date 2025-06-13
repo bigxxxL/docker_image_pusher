@@ -1,2 +1,2 @@
-youshandefeiyang/allinone:latest
+lobehub/lobe-chat:v1.47.16
 
